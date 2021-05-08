@@ -11,7 +11,7 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Introduction to Data Science in Python
 
-[View Certificate](Courses/Intro%20To%20Data%20Science%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-data-analysis) 
+[View Certificate](Course%20Certificates/Intro%20To%20Data%20Science%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-data-analysis) 
 
 #### Topics covered
 
@@ -21,7 +21,7 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Applied Plotting, Charting & Data Representation in Python
 
-[View Certificate](Courses/Applied%20Plotting%20Charting%20And%20Data%20Representation%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-plotting) 
+[View Certificate](Course%20Certificates/Applied%20Plotting%20Charting%20And%20Data%20Representation%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-plotting) 
 
 #### Topics covered
 
@@ -32,7 +32,7 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Applied Machine Learning in Python
 
-[View Certificate](Courses/Applied%20Machine%20Learning%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-machine-learning) 
+[View Certificate](Course%20Certificates/Applied%20Machine%20Learning%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-machine-learning) 
 
 #### Topics covered
 
@@ -43,7 +43,7 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Applied Text Mining in Python
 
-[View Certificate](Courses/Applied%20Text%20Mining%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-text-mining) 
+[View Certificate](Course%20Certificates/Applied%20Text%20Mining%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-text-mining) 
 
 #### Topics covered
 
@@ -54,7 +54,7 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Applied Social Network Analysis in Python
 
-[View Certificate](Courses/Applied%20Social%20Network%20Analysis%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-social-network-analysis) 
+[View Certificate](Course%20Certificates/Applied%20Social%20Network%20Analysis%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-social-network-analysis) 
 
 #### Topics covered
 
