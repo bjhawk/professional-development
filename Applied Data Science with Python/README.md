@@ -5,7 +5,9 @@
 
 A skills-based specialization, applying statistical, machine learning, visualization, text analysis, and social network analysis techniques through popular python toolkits such as `pandas`, `matplotlib`, `scikit-learn`, `nltk`, and `networkx`.
 
-<a href="Applied%20Data%20Science%20With%20Python.pdf" target="_blank"><img src="Applied%20Data%20Science%20With%20Python.png" width="640" /></a>
+<a href="Applied%20Data%20Science%20With%20Python.pdf">
+    <img src="Applied%20Data%20Science%20With%20Python.png" width="640" />
+</a>
 
 ## Courses
 
@@ -32,7 +34,7 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Applied Machine Learning in Python
 
-[View Certificate](Course%20Certificates/Applied%20Machine%20Learning%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-machine-learning) 
+[View Certificate](Course%20Certificates/Applied%20Machine%20Learning%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-machine-learning) 
 
 #### Topics covered
 
@@ -43,22 +45,22 @@ A skills-based specialization, applying statistical, machine learning, visualiza
 
 ### Applied Text Mining in Python
 
-[View Certificate](Course%20Certificates/Applied%20Text%20Mining%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-text-mining) 
+[View Certificate](Course%20Certificates/Applied%20Text%20Mining%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-text-mining) 
 
 #### Topics covered
 
 + Text mining, parsing and processing text, RegEx, Internationalization and handling non-ascii text.
-+ Natural language processing, `nltk`, normalization of text, sentence, word, and ngram tokenization, part-of-speech tagging, 
++ Natural language processing, `nltk`, normalization of text, sentence, word, and ngram tokenization, part-of-speech tagging.
 + Text classification, Naïve Bayes and Support Vector Machines, sentiment analysis.
 + Semantic similarity, topic modeling, generative models, Latent Dirichlet allocation, information extraction.
 
 ### Applied Social Network Analysis in Python
 
-[View Certificate](Course%20Certificates/Applied%20Social%20Network%20Analysis%20in%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-social-network-analysis) 
+[View Certificate](Course%20Certificates/Applied%20Social%20Network%20Analysis%20In%20Python.pdf) | [View Course on Coursera](https://www.coursera.org/learn/python-social-network-analysis) 
 
 #### Topics covered
 
-+ The need for and application of network analysis, Network components, nodes, edges, undirected, directed, multi-edge graphs, `networkx`
++ The need for and application of network analysis, Network components, nodes, edges, undirected, directed, multi-edge graphs, `networkx`.
 + Measurements of network connectivity, clustering, distance, reachability, redundancy, robustness, measuring the effect of node- and edge-based network attacks.
-+ Importance and centrality of nodes, degree, closeness, betweenness. Page Rank and Hyperlink-Induced Topic Search (HITS) algorithms.
++ Importance and centrality of nodes, degree, closeness, betweenness, Page Rank and Hyperlink-Induced Topic Search (HITS) algorithms.
 + Network evolution over time, Preferential Attachment and Small World Networks, assumptions of generative network models, link prediction.
