@@ -1,7 +1,7 @@
 # Applied Data Science with Python
 #### A 5-course Specialization by the University of Michigan on Coursera
 
-[View Specialization Accomplishments](https://www.coursera.org/account/accomplishments/specialization/BRAZKUXHPSDD) | [View Specialization on Coursera](https://www.coursera.org/specializations/data-science-python) 
+[View Specialization Accomplishments and Verification](https://www.coursera.org/account/accomplishments/specialization/BRAZKUXHPSDD) | [View Specialization on Coursera](https://www.coursera.org/specializations/data-science-python)
 
 A skills-based specialization, applying statistical, machine learning, visualization, text analysis, and social network analysis techniques through popular python toolkits such as `pandas`, `matplotlib`, `scikit-learn`, `nltk`, and `networkx`.
 

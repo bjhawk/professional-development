@@ -1,7 +1,7 @@
 # Professional Certificate in Data Science
 #### A program by the Harvard on EdX
 
-[View Program Accomplishments](https://credentials.edx.org/records/programs/shared/92e3d3daba6c4ba4afbd556b8cb5c8e9/) | [View Program on EdX](https://www.edx.org/professional-certificate/harvardx-data-science) 
+[View Program Accomplishments and Verification](https://credentials.edx.org/records/programs/shared/92e3d3daba6c4ba4afbd556b8cb5c8e9/) | [View Program on EdX](https://www.edx.org/professional-certificate/harvardx-data-science)
 
 A 9-course program covering concepts of Data Science, including probability, inference, regression, and Machine Learning. This program builds towards applications of these concepts in data wrangling, visualization, and formal publication of reproducible research. Coursework, assignments, and final capstone projects are done in `R`, using common popular tools such as `ggplot2`, `dplyr` and the entire `tidyverse`, `rMarkdown` with `knittr`, and the `caret` for Machine Learning.
 
