@@ -99,7 +99,7 @@ The program culminates in a pair of capstone projects: a Movie Recommendation sy
 Application of previous 8 courses' material on two major projects .
 
 #### Movie Recommendation System, using the MovieLens 10M dataset
-An application of the `Recosystem::recommender` and an bespoke implementation of the "Slope-One" algorithm. Topics include normalisation of multiple factor effects, big data processing challenges, and parallelized computing.
+An application of the `Recosystem::recommender` and a bespoke implementation of the "Slope-One" algorithm. Topics include normalization of multiple factor effects, big data processing challenges, and parallelized computing.
 
 [View Report](https://github.com/bjhawk/PH125.9x-movielens/blob/master/report.pdf) | [View Repository on github](https://github.com/bjhawk/PH125.9x-movielens/)
 
